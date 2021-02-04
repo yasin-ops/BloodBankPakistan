@@ -1,0 +1,7 @@
+git init
+git status
+git add .
+git status
+git commit -m "first commit" .
+ just copy 
+last three codeof git hub orgin etc
